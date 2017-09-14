@@ -1,0 +1,11 @@
+﻿  VendingMachine.cpp
+c:\users\tay's\desktop\info 450\assignments\vendingmachine\vendingmachine\vendingmachine.cpp(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tay's\desktop\info 450\assignments\vendingmachine\vendingmachine\vendingmachine.cpp(81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tay's\desktop\info 450\assignments\vendingmachine\vendingmachine\vendingmachine.cpp(88): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tay's\desktop\info 450\assignments\vendingmachine\vendingmachine\vendingmachine.cpp(89): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tay's\desktop\info 450\assignments\vendingmachine\vendingmachine\vendingmachine.cpp(100): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tay's\desktop\info 450\assignments\vendingmachine\vendingmachine\vendingmachine.cpp(101): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tay's\desktop\info 450\assignments\vendingmachine\vendingmachine\vendingmachine.cpp(108): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tay's\desktop\info 450\assignments\vendingmachine\vendingmachine\vendingmachine.cpp(109): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  VendingMachine.vcxproj -> C:\Users\Tay's\Desktop\Info 450\Assignments\VendingMachine\Debug\VendingMachine.exe
+  VendingMachine.vcxproj -> C:\Users\Tay's\Desktop\Info 450\Assignments\VendingMachine\Debug\VendingMachine.pdb (Full PDB)
